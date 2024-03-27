@@ -1,0 +1,36 @@
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\bin\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\bin\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csprojResolveAssemblyReference.cache
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\bin\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\bin\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\bin\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\bin\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Release\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Release\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Release\DataSendTest.csproj.GenerateResource.Cache

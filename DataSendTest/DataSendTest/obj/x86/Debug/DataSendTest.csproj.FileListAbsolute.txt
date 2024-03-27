@@ -1,0 +1,53 @@
+D:\Brian new C#\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+D:\Brian new C#\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csprojResolveAssemblyReference.cache
+D:\Brian new C#\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+D:\Brian new C#\DLL傳送應用\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+D:\Brian new C#\DLL傳送應用\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csprojResolveAssemblyReference.cache
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+D:\Brian new C#\DLL傳送應用(C# to C#)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\NB自動化測試專案文獻\C#互傳字串(已測試正常)\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC 對傳 Csharp(#)雙向對傳程式工具2\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Debug\DataSendTest.exe
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\bin\Debug\DataSendTest.pdb
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.FormTest.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.Properties.Resources.resources
+C:\Users\IRIS\Desktop\MFC C# 自動化互傳(已測試過)2016.10.28\MFC C# 自動化互傳(已測試過)2016.10.28\DataSendTest\DataSendTest\obj\x86\Debug\DataSendTest.csproj.GenerateResource.Cache
